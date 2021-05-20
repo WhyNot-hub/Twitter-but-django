@@ -7,6 +7,6 @@ and start:
 
 python manage.py runserver
 
-#Features
+# Features
 at this moment im learning react to make the design more beautiful.
 and need to fix bug with a like/dislike buttons (They dont work)
